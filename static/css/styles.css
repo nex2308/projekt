@@ -1,0 +1,23 @@
+h1{
+    background-color: lightgray;
+    color: blue;
+}
+#login{
+    background-color: white;
+    color: black;
+    text-decoration: underline;
+}
+#menu{
+    background-color: lightskyblue;
+    color: yellow;
+    font-size: medium;
+    font-weight: bold;
+}
+#err{
+    background-color: red;
+    color: black;
+    text-decoration: underline;
+}
+.special{
+    background-color: yellow;
+}
